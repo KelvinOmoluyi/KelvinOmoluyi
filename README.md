@@ -7,10 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvinomoluyi&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinomoluyi" /> </p>
 
-<p align="left" style="display: flex; column-gap: 20px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvinomoluyi" alt="kelvinomoluyi" /></a> </p>
+<p align="left" style="display: flex; column-gap: 20px;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kelvinomoluyi&theme=radical&margin-w=15" alt="kelvinomoluyi" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://x.com/KelvinOmoluyi?t=O8jwViwrl4a2foHgMcXxCg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/kelvinomoluyi?logo=twitter&style=for-the-badge" alt="kelvinomoluyi" /></a> </p>
-<br><br>
+<p align="center"> <a href="https://x.com/KelvinOmoluyi?t=O8jwViwrl4a2foHgMcXxCg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/kelvinomoluyi?logo=twitter&style=for-the-badge" alt="kelvinomoluyi" /></a> </p>
+<br>
 <h3 align="left">About Me 👨‍💻</h3>
 - 🔭 I’m currently working on **PHP, and Solidity**
 
