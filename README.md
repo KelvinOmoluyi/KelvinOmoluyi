@@ -1,13 +1,13 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&width=435&lines=Hi+👋%2C+I'm+Kelvin+Omoluyi" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&width=435&lines=Hi+👋%2C+I'm+Kelvin+Omoluyi" alt="Typing Animation" />
   </a>
 </h1>
 <h3 align="center">A passionate Web developer and Upcoming web3 developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvinomoluyi&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinomoluyi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvinomoluyi" alt="kelvinomoluyi" /></a> </p>
+<p align="left" style="display: flex; column-gap: 20px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvinomoluyi" alt="kelvinomoluyi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kelvinomoluyi" target="blank"><img src="https://img.shields.io/twitter/follow/kelvinomoluyi?logo=twitter&style=for-the-badge" alt="kelvinomoluyi" /></a> </p>
 
