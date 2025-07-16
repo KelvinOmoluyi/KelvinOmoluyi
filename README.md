@@ -16,19 +16,19 @@
 <p align="center"> <a href="https://x.com/KelvinOmoluyi?t=O8jwViwrl4a2foHgMcXxCg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/kelvinomoluyi?logo=twitter&style=for-the-badge" alt="kelvinomoluyi" /></a> </p>
 <br>
 <h3 align="left">About Me 👨‍💻</h3>
-- 🔭 I’m currently working on **PHP, and Solidity**
+- 🔭 I’m currently working on Reactjs
 
-- 🌱 I’m currently learning **React.js, PHP**
+- 🌱 I’m currently learning Framer Motion, Next.js
 
-- 🤝 I’m looking for help with **Building web applications**
+- 🤝 I’m looking for help with Learning Solidity
 
 - 👨‍💻 All of my projects are available at [kelvinportfolio01.netlify.app](kelvinportfolio01.netlify.app)
 
-- 💬 Ask me about **JavaScript, CSS animations**
+- 💬 Ask me about JavaScript, CSS animations
 
-- 📫 How to reach me **kelvinomoluyi246@gmail.com**
+- 📫 How to reach me kelvinomoluyi246@gmail.com
 
-- ⚡ Fun fact **I like the planet mars**
+- ⚡ Fun fact I love Immersive web experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
