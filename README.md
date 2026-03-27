@@ -16,19 +16,15 @@
 <p align="center"> <a href="https://x.com/KelvinOmoluyi?t=O8jwViwrl4a2foHgMcXxCg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/kelvinomoluyi?logo=twitter&style=for-the-badge" alt="kelvinomoluyi" /></a> </p>
 <br>
 <h3 align="left">About Me 👨‍💻</h3>
-- 🔭 I’m currently working on Reactjs
+- 🔭 I’m currently working on React Native
 
-- 🌱 I’m currently learning Framer Motion, Next.js
+- 👨‍💻 All of my projects are available at [kelvinomoluyi.vercel.app](https://kelvinomoluyi.vercel.app)
 
-- 🤝 I’m looking for help with Learning Solidity
-
-- 👨‍💻 All of my projects are available at [kelvinportfolio01.netlify.app](kelvinportfolio01.netlify.app)
-
-- 💬 Ask me about JavaScript, CSS animations
+- 💬 Ask me about React & React Native, 
 
 - 📫 How to reach me kelvinomoluyi246@gmail.com
 
-- ⚡ Fun fact I love Immersive web experiences
+- ⚡ Fun fact I love Immersive digital experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
