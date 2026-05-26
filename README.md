@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&width=435&lines=Hi+👋%2C+I'm+Kelvin+Omoluyi" alt="Typing Animation" />
   </a>
 </h1>
-<h3 align="center">A passionate Web developer and Upcoming web3 developer</h3>
+<h3 align="center">An AI-native immersive product developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvinomoluyi&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinomoluyi" /> </p>
 
